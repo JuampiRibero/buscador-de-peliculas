@@ -4,7 +4,7 @@ Aplicación para buscar películas desarrollada con _**React**_ y _**Vite**_.
 
 ## API
 
-Usamos la API de [OMDb API](https://www.omdbapi.com/).
+Usamos la API de [OMDb](https://www.omdbapi.com/).
 
 ## Hooks
 
